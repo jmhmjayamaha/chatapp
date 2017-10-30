@@ -9,7 +9,7 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyA9zcSSYse_5X7HQl9fPQHIR20rPN-3MkI",
+  apiKey: "",
     authDomain: "chatapp-45e1b.firebaseapp.com",
     databaseURL: "https://chatapp-45e1b.firebaseio.com",
     projectId: "chatapp-45e1b",
